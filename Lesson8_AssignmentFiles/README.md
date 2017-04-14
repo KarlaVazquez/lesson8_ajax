@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 13, 2017
 
 ### Student Name:  
-(First and Last Name)
+Karla Vazquez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+This project gave me a better understanding of how to use API's and AJAX that I would not otherwise have known.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://karlavazquez.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using these techniques makes my life so much easier.
+2. Twitter uses systems likes Ajax to retrieve tweets without refreshing the page.
+3. JSON is Javascript on drugs. 
